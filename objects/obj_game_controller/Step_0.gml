@@ -1,4 +1,4 @@
-//if(keyboard_check_pressed(vk_tab)) global.debug = !global.debug;
+obj//if(keyboard_check_pressed(vk_tab)) global.debug = !global.debug;
 
 //if(keyboard_check_pressed(vk_enter)) room_restart();
 
