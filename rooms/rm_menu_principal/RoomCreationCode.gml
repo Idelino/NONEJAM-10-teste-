@@ -1,0 +1,12 @@
+if(instance_exists(obj_player_1))
+{
+	instance_destroy(obj_player_1)	
+}
+if(instance_exists(obj_player_2))
+{
+	instance_destroy(obj_player_2)	
+}
+if(instance_exists(obj_camera))
+{
+	instance_destroy(obj_camera)	
+}

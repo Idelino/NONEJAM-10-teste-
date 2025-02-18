@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_music_rpg_calm",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":82.4,
+  "name":"snd_music_rpg_calm",
+  "parent":{
+    "name":"MUSIC",
+    "path":"folders/Sons/MUSIC.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_music_rpg_calm.wav",
+  "type":0,
+  "volume":1.0,
+}
